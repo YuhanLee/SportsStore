@@ -29,6 +29,7 @@ module.exports = function(){
     orders: []
   }
 }
+
 //
 // This code defines two data collections that will be presented by the RESTfful webservice.
 // 1. Sale to the customer
